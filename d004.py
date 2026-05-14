@@ -1,0 +1,1 @@
+print('A linguagem simula foi um super conjunto da linguagem Algol60')

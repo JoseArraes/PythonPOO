@@ -1,0 +1,1 @@
+print('A "crise do software" surgiu em 1960')

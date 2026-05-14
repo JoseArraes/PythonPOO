@@ -1,0 +1,1 @@
+print('O Criador da linguagem "Smaltalk" foi Alan Kay')

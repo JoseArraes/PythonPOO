@@ -1,0 +1,1 @@
+print('A característica que identifica as linguagens lineares são os desvios forçados com o "goto')

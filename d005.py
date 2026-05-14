@@ -1,0 +1,1 @@
+print('As duas últimas letras da sigla "OOAD" significam Analysis/Design')
